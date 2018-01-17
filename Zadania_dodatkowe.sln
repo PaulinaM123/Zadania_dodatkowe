@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadania_dodatkowe", "Zadania_dodatkowe.csproj", "{19AF11EA-FEB5-47B4-A706-1B53F485BF6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitmapa", "Bitmapa.csproj", "{19AF11EA-FEB5-47B4-A706-1B53F485BF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablica_bajtów_do_pliku", "..\Tablica_bajtów_do_pliku\Tablica_bajtów_do_pliku.csproj", "{D1613AA7-4BF9-4835-B1A4-71434405B81D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{19AF11EA-FEB5-47B4-A706-1B53F485BF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19AF11EA-FEB5-47B4-A706-1B53F485BF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19AF11EA-FEB5-47B4-A706-1B53F485BF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1613AA7-4BF9-4835-B1A4-71434405B81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1613AA7-4BF9-4835-B1A4-71434405B81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1613AA7-4BF9-4835-B1A4-71434405B81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1613AA7-4BF9-4835-B1A4-71434405B81D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
